@@ -1,2 +1,2 @@
 import streamlit
-Streamlit.title('My parents new Healthy Diner');
+streamlit.title('My parents New Healthy Diner')
